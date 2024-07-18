@@ -1,0 +1,3 @@
+name,typ,hoehe,breite,tiefe,temperatur_min,temperatur_max,pH_min,pH_max,luftfeuchte_min,luftfeuchte_max,bewohner,pfleger
+Aquarium 1,Aquarium,50,100,50,12,20,7,7.9,,,"Axel,Lotti,Quetzalcoatl","ilyas.alabadi@mps-ki.de,arian.fichtner@mps-ki.de,mariam.lehmkuhl@mps-ki.de,frederikmarcel.rademacher@mps-ki.de"
+Aquarium 2,Aquarium,40,60,30,23,27,5.5,7.5,,,Zwerggarnelen,"annika.boettner@mps-ki.de,arya.fakhoury@mps-ki.de,levin.lienau@mps-ki.de,miran.nemeth@mps-ki.de"

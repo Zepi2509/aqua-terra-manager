@@ -1,0 +1,9 @@
+name,typ,hoehe,breite,tiefe,temperatur_min,temperatur_max,pH_min,pH_max,luftfeuchte_min,luftfeuchte_max,bewohner,pfleger
+Aquarium 1,Aquarium,50,100,50,12,20,7,7.9,,,"Axel,Lotti,Quetzalcoatl","ilyas.alabadi@mps-ki.de,arian.fichtner@mps-ki.de,mariam.lehmkuhl@mps-ki.de,frederikmarcel.rademacher@mps-ki.de"
+Aquarium 2,Aquarium,40,60,30,23,27,5.5,7.5,,,Zwerggarnelen,"annika.boettner@mps-ki.de,arya.fakhoury@mps-ki.de,levin.lienau@mps-ki.de,miran.nemeth@mps-ki.de"
+Aquarium 3,Aquarium,50,100,45,22,25,6,8,,,"Platys,Guppys,Wanja,Ola,Salmler","cleomiriam.hausschild@mps-ki.de,matti.haverkamp@mps-ki.de,malou.maier@mps-ki.de,livia.michalski@mps-ki.de,anastasia.romanova@mps-ki.de,josefine.ruhland@mps-ki.de"
+Terrarium 1,Terrarium,50,100,60,15,18,,,,,"Schmitz,Eisenring,Dr. phil.","nicolas.betzler@mps-ki.de,nils.bleyer@mps-ki.de,lassealexander.kurak@mps-ki.de"
+Terrarium 2,Terrarium,60,200,70,20,40,,,30,50,"Bartholomäus,Andromeda,Jojo","diana.herrendorff@mps-ki.de,hamza.kalb@mps-ki.de,leopoldjakob.wendl@mps-ki.de"
+Terrarium 3,Terrarium,150,100,60,28,35,,,40,50,"Thorsten,Rick,Morty","amir.erakat@mps-ki.de,benedikt.helbig@mps-ki.de,alia.vonseggern@mps-ki.de"
+Terrarium 4,Terrarium,200,120,70,20,35,,,60,70,"Fred,George,Pascal","yara.koese@mps-ki.de,emely.renke@mps-ki.de,emmilouise.schulte@mps-ki.de"
+Aquaterrarium 1,Aquaterrarium,70,250,150,22,30,,,,,"Gulliver,Erdmuthe,Olga,Amy,Bernadette,Penny","jule.gerges@mps-ki.de,elifzeynep.yueksel@mps-ki.de,maltehenri.michaelis@mps-ki.de,luke.thomas@mps-ki.de,marla.wilk@mps-ki.de"

@@ -1,0 +1,28 @@
+name,art_trivial,art_wissenschaftlich,geschlecht,gewicht,anzahl,foto
+Axel,Axolotl,Ambystoma mexicanum,male,110,1,https://upload.wikimedia.org/wikipedia/commons/d/df/Axolotl.jpg
+Lotti,Axolotl,Ambystoma mexicanum,female,85,1,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ambystoma_mexicanum_2.jpg/330px-Ambystoma_mexicanum_2.jpg
+Quetzalcoatl,Axolotl,Ambystoma mexicanum,male,134,1,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ambystoma_mexicanum.jpg/330px-Ambystoma_mexicanum.jpg
+Amy,Gelbwangen-Schmuckschildkröte,Trachemys scripta scripta,female,530,1,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yellow-bellied_Slider_2.jpg/450px-Yellow-bellied_Slider_2.jpg
+Bernadette,Gelbwangen-Schmuckschildkröte,Trachemys scripta scripta,female,598,1,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Yellow-bellied_slider_%2804%29.jpg/330px-Yellow-bellied_slider_%2804%29.jpg
+Penny,Gelbwangen-Schmuckschildkröte,Trachemys scripta scripta,female,456,1,https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Tortuga_de_orejas_amarillas_%28Trachemys_scripta_scripta%29%2C_Jard%C3%ADn_Bot%C3%A1nico%2C_M%C3%BAnich%2C_Alemania_2012-04-21%2C_DD_09.JPG/345px-Tortuga_de_orejas_amarillas_%28Trachemys_scripta_scripta%29%2C_Jard%C3%ADn_Bot%C3%A1nico%2C_M%C3%BAnich%2C_Alemania_2012-04-21%2C_DD_09.JPG
+Schmitz,Feuersalamander,Salamandra salamandra,male,33,1,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Salamandra_salamandra_Odenwald.jpg/450px-Salamandra_salamandra_Odenwald.jpg
+Eisenring,Feuersalamander ,Salamandra salamandra,male,38,1,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Feuersalamander_%28Salamandra_salamandra%29_2011-05-08.jpg/360px-Feuersalamander_%28Salamandra_salamandra%29_2011-05-08.jpg
+Dr. phil.,Feuersalamander ,Salamandra salamandra,male,42,1,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Salamander_Portrait.jpg/330px-Salamander_Portrait.jpg
+Gulliver,Erdkröte,Bufo bufo,male,34,1,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bufo_bufo-walking-Iric2006.jpg/682px-Bufo_bufo-walking-Iric2006.jpg
+Erdmuthe,Erdkröte,Bufo bufo,female,76,1,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Erdkr%C3%B6te_EO5P2247-2.jpg/330px-Erdkr%C3%B6te_EO5P2247-2.jpg
+Olga,Erdkröte,Bufo bufo,female,88,1,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Erdkr%C3%B6te_Kopf1.jpg/330px-Erdkr%C3%B6te_Kopf1.jpg
+Bartholomäus,Zwergbartagame,Pogona henrylawsoni,male,100,1,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pogona_henrylawsoni.jpg/450px-Pogona_henrylawsoni.jpg
+Andromeda,Zwergbartagame,Pogona henrylawsoni,female,123,1,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pogona_henrylawsoni_Kopf.JPG/180px-Pogona_henrylawsoni_Kopf.JPG
+Jojo,Zwergbartagame,Pogona henrylawsoni,female,156,1,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TerraZoo_Rheinberg_Zwergbartagame3.jpg/120px-TerraZoo_Rheinberg_Zwergbartagame3.jpg
+Fred,Jemenchamäleon,Chamaeleo calyptratus,male,203,1,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Yemen_Chameleon.jpg/450px-Yemen_Chameleon.jpg
+George,Jemenchamäleon,Chamaeleo calyptratus,male,178,1,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chameleon_head.jpg/330px-Chameleon_head.jpg
+Pascal,Jemenchamäleon,Chamaeleo calyptratus,male,176,1,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chamaeleo_calyptratus_%28molt%29.JPG/330px-Chamaeleo_calyptratus_%28molt%29.JPG
+Thorsten,Palmen-Taggecko,Phelsuma dubia,male,24,1,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Greenday_gecko_%288212301132%29.jpg/180px-Greenday_gecko_%288212301132%29.jpg
+Rick,Leopardgecko,Eublepharis macularius,male,56,1,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Gecko_1.jpg/450px-Gecko_1.jpg
+Morty,Leopardgecko,Eublepharis macularius,male,34,1,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gecko_l%C3%A9opard_b%C3%A9b%C3%A9.jpg/330px-Gecko_l%C3%A9opard_b%C3%A9b%C3%A9.jpg
+Zwerggarnelen,Zwerggarnele,Caridina spec.,unknown,,13,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Neocaridina_heteropoda_1.jpg/1280px-Neocaridina_heteropoda_1.jpg
+Platys,Platy,Xiphophorus maculatus,unknown,,5,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Platypaar_1.jpg/1280px-Platypaar_1.jpg
+Guppys,Guppy,Poecilia reticulata,unknown,,1,https://upload.wikimedia.org/wikipedia/commons/5/59/Guppy_coppia_gialla.jpg
+Wanja,Brauner Antennenwels,Ancistrus spec.,unknown,,1,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ancistrus_sp_head.jpg/330px-Ancistrus_sp_head.jpg
+Ola,Brauner Antennenwels,Ancistrus spec.,unknown,,1,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bristlenose_Catfish_700.jpg/330px-Bristlenose_Catfish_700.jpg
+Salmler,Neonsalmler,Paracheirodon innesi,unknown,,8,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Neontetra_tmy.JPG/330px-Neontetra_tmy.JPG

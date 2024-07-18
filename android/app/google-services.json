@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "916490951809",
+    "project_id": "aqua-terra-manager",
+    "storage_bucket": "aqua-terra-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916490951809:android:595ce273296849eec48180",
+        "android_client_info": {
+          "package_name": "com.reinekezepner.aqua_terra_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916490951809-ufktuog5u02g04gm4j0l0m2up1ea5kqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ2KdfAujOsHan46vxXOAXLK7kd0BMWT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916490951809-ufktuog5u02g04gm4j0l0m2up1ea5kqo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "916490951809-vnoll94i4f711cka611a1g5ngm16dgi4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reinekezepner.aquaTerraManager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
